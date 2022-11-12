@@ -37,5 +37,3 @@ P.S. Jako że nasze obecne mieszkanie jest bardzo skromne, prosimy o nie przynos
 
 [Mapa poglądowa](https://en.mapy.cz/s/ledulodeba)
 
-<iframe style="border:none" src="https://en.frame.mapy.cz/s/facafububa" width="400" height="280" frameborder="0"></iframe>
-
